@@ -6,8 +6,7 @@ function Header() {
       
       <p>hellolhs;ldhflhsd;gohlskhgh;kldfhg/sd;khg;sljshdglajhg;;lhg</p>
       <p>hellolhs;ldhflhsd;gohlskhgh;kldfhg/sd;khg;sljshdglajhg;;lhg</p>
-      <p>hellolhs;ldhflhsd;gohlskhgh;kldfhg/sd;khg;sljshdglajhg;;lhg</p>
-      <p>hellolhs;ldhflhsd;gohlskhgh;kldfhg/sd;khg;sljshdglajhg;;lhg</p>
+      <button >hello</button>
     </div>
   )
 }
